@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @afghan26
-- 👀 I want to change Earth and lifes in it!
-- 🌱 I currently study space exploration management.
-- 💞️ I’m looking to collaborate on space projects!
-- 📫 How to reach me? Either contact me here, or contact my Discord baby!
+- A GitHub user
 
 Discord: Equilibrium#7404
 
